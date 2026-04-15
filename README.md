@@ -40,3 +40,42 @@ A desktop application built using **C++ and Qt Framework** to automate hotel ope
 ---
 
 ## 📁 Project Structure
+hotel_mgmt/
+├── main.cpp
+├── mainwindow.cpp
+├── mainwindow.h
+├── models.h
+├── HotelManagement.pro
+└── README.md
+
+
+---
+
+## ▶️ How to Run
+
+### 🔹 Using Qt Creator
+1. Open Qt Creator  
+2. Click on **Open Project**  
+3. Select `HotelManagement.pro`  
+4. Click **Run ▶️**
+
+---
+
+### 🔹 Using Terminal
+
+```bash
+qmake HotelManagement.pro
+make
+./HotelManagement
+
+💡 Future Enhancements
+🌐 Online Booking System
+📱 Mobile Application
+☁️ Cloud Database Integration
+🔐 Multi-user Authentication
+👨‍💻 Author
+
+Ritik Paliwal
+🎓 MCA Student | Chandigarh University
+
+⭐ If you like this project, give it a star!
